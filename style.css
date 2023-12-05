@@ -1,0 +1,54 @@
+body {
+    background-size: cover;
+
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.big_image {
+    width: 100%;
+
+}
+
+#start,
+#status {
+    font-size: 22px;
+}
+
+#h3 {
+    background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+    text-align: justify;
+    padding-left: 20px;
+    font-size: 20px;
+
+}
+
+#footer {
+    position: fixed;
+    width: 100%;
+    font-size: 20px;
+    color: black;
+    background-color: yellow;
+    bottom: 0;
+}
+
+canvas {
+border-style: groove dotted solid dashed;
+border-width:3px;
+border-color: chartreuse;
+
+}
